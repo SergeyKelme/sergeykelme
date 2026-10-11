@@ -81,6 +81,6 @@
 
 ### 📫 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/-Telegram-040f04?style=for-the-badge&logo=telegram)](https://t.me/твой_ник)
-[![HH.ru](https://img.shields.io/badge/-HH.ru-040f04?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/твой_id)
+[![Telegram](https://img.shields.io/badge/-Telegram-040f04?style=for-the-badge&logo=telegram)](https://t.me/@SergeyEvgrafovSPB)
+[![HH.ru](https://img.shields.io/badge/-HH.ru-040f04?style=for-the-badge&logo=headhunter)](https://spb.hh.ru/resume/637a5122ff108858330039ed1f58664c545257)
 [![VK](https://img.shields.io/badge/-VK-040f04?style=for-the-badge&logo=vk)](https://vk.com/id547128657)
