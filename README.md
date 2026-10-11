@@ -3,9 +3,7 @@
 ## Welcome to my GitHub profile!
 #### Here I share my projects and code created using Python. I would be happy to have you among my followers and hope you find something useful here. Thank you for visiting!
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-040f04?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-040f04?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/-Django-040f04?style=for-the-badge&logo=Django)
+![1С](https://img.shields.io/badge/-1С-D91920?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-040f04?style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=MySQL)
 ![SQL](https://img.shields.io/badge/-POSTGRESQL-040f04?style=for-the-badge&logo=Postgresql)
