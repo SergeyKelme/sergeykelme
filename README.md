@@ -1,45 +1,86 @@
 ![Header](https://github.com/SergeyCicada/sergeycicada/blob/main/assets/b4e371619042d1e80918d09904e90f7d.gif)
 
-## Welcome to my GitHub profile!
-#### Here I share my projects and code created using Python. I would be happy to have you among my followers and hope you find something useful here. Thank you for visiting!
-### Languages and Tools
-![1С](https://img.shields.io/badge/-1С-D91920?style=for-the-badge)
+## Привет! Я начинающий 1С-разработчик 👋
+#### Специализируюсь на автоматизации бизнес-процессов, интеграциях через HTTP-сервисы и работе с регистрами. 
+#### Здесь я делюсь своими проектами на платформе 1С:Предприятие 8.3. 
+#### Буду рад обратной связи и сотрудничеству!
+
+---
+
+### 🛠 Мой стек
+
+![1С](https://img.shields.io/badge/-1С:Предприятие_8.3-D91920?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/-HTTP--сервисы-FF6F00?style=for-the-badge)
+![СКД](https://img.shields.io/badge/-СКД_(отчеты)-4CAF50?style=for-the-badge)
+![Регистры](https://img.shields.io/badge/-Регистры_накопления_и_сведений-2196F3?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-040f04?style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=MySQL)
-![SQL](https://img.shields.io/badge/-POSTGRESQL-040f04?style=for-the-badge&logo=Postgresql)
-![DOCKER](https://img.shields.io/badge/-DOCKER-040f04?style=for-the-badge&logo=docker)
-![GIT](https://img.shields.io/badge/-git-040f04?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-linux-040f04?style=for-the-badge&logo=Ubuntu)
-![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-040f04?style=for-the-badge&logo=Postgresql)
+![Git](https://img.shields.io/badge/-Git-040f04?style=for-the-badge&logo=git)
 
-### Courses completed and advanced training
-[Cloud Services Engineer](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_20222%D0%98%D0%9E%D0%A100934%20(1)%20(1).pdf)
+---
 
-[SQL Academy certificate](https://github.com/SergeyCicada/completed_courses/blob/main/certificate-659765eaaf43570048d4986d.pdf)
+### 🚀 Мой флагманский проект
 
-[SQL Academy certificate v2](https://github.com/SergeyCicada/completed_courses/blob/main/SqlCertificate.pdf)
+**[Phoenix: Центр управления распределенными энергоустановками](https://github.com/SergeyCicada/phoenix-energy-management)**
 
-[Networks and computing systems](https://github.com/SergeyCicada/completed_courses/blob/main/Certificate%20for%20Cisco.pdf)
+Комплексное решение на 1С:Предприятие 8.3 для автоматизации полного жизненного цикла автономных солнечных станций:
+- 📦 Учет комплектующих и сборка станций
+- 🚀 Установка у клиентов с привязкой к договорам
+- 📡 Прием телеметрии в реальном времени (HTTP API)
+- 📊 Аналитика выработки и экономии
+- 🔔 Предиктивная диагностика аномалий
+- 🛠️ Генерация заданий на техническое обслуживание
 
-[Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-67-3d823b1.pdf)
+---
 
-[Python programming](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58852-e829f55.pdf)
+### 🎓 Образование и курсы
 
-[English elementary](https://github.com/SergeyCicada/completed_courses/blob/main/1392217_qeOoL9EAbi9L09ZV.png)
+<details>
+<summary><b>1С и базы данных</b></summary>
 
-[Doctor Web Security Space](https://github.com/SergeyCicada/completed_courses/blob/main/photo_2023-03-23_10-21-55.jpg)
+- [SQL Academy certificate](ссылка)
+- [SQL Academy certificate v2](ссылка)
+- [PostgreSQL для начинающих](ссылка)
 
-[Introduction to Networking](https://github.com/SergeyCicada/completed_courses/blob/main/stepik-certificate-58678-96bbf3f.pdf)
+</details>
 
-[Сreation of user interface](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1.%20%D0%90..jpg)
+<details>
+<summary><b>Python и алгоритмы</b></summary>
 
-[Computer engineering](https://github.com/SergeyCicada/completed_courses/blob/main/%D0%95%D0%B2%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2%20%D0%A1.%D0%90..pdf)
+- [Python programming (Stepik)](ссылка)
+- [Python programming v2 (Stepik)](ссылка)
+- [Codewars Profile](https://www.codewars.com/users/SergeyKelme)
 
-[Webdesigner](https://github.com/SergeyCicada/completed_courses/blob/main/19e1a8ebc96e08b4f7b74220ef3622c5.png)
+</details>
 
-### My statistics on СodeWars
+<details>
+<summary><b>Сети и инфраструктура</b></summary>
+
+- [Networks and computing systems (Cisco)](ссылка)
+- [Introduction to Networking (Stepik)](ссылка)
+- [Cloud Services Engineer](ссылка)
+
+</details>
+
+<details>
+<summary><b>Дизайн и UI</b></summary>
+
+- [Сreation of user interface](ссылка)
+- [Webdesigner](ссылка)
+
+</details>
+
+---
+
+### 📊 Моя статистика
+
 ![Codewars](https://github.r2v.ch/codewars?user=SergeyKelme)
 
-### Follow Me
-[![VK](https://img.shields.io/badge/-Vk-040f04?style=for-the-badge&logo=vk)](https://vk.com/id547128657)
+---
+
+### 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/-Telegram-040f04?style=for-the-badge&logo=telegram)](https://t.me/твой_ник)
+[![HH.ru](https://img.shields.io/badge/-HH.ru-040f04?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/твой_id)
+[![VK](https://img.shields.io/badge/-VK-040f04?style=for-the-badge&logo=vk)](https://vk.com/id547128657)
